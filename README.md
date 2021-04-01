@@ -1,5 +1,5 @@
 # ScrumLab
-Reupload of project realised in a group of 4 people during coding bootcamp.
+Reupload of project realised in a group of 4 people during coding bootcamp. February 2021.
 
 ### Sample Screenshots for this project: 
 
