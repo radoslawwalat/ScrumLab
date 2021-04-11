@@ -1,6 +1,8 @@
 # ScrumLab
 Reupload of project realised in a group of 4 people during coding bootcamp. February 2021.
 
+Technologies used: Java servlets, mySQL, DAO classes, jsp + jstl.
+
 ### Sample Screenshots for this project: 
 
 ![alt text](https://github.com/radoslawwalat/ScrumLab/blob/main/SampleScreenshots/dodajPrzepisDoPlanu.png?raw=true)
